@@ -30,15 +30,11 @@ Le tout doit être connecté au backend servi en http://localhost:5000
 
 # Aides & indices
 
-------
-
 ## API
 
 * End point : https://kickass-sdw-3a.herokuapp.com
 
 * Format d'échange : JSON
-
-------
 
 ### get users : GET /api/users
 
@@ -68,8 +64,6 @@ Le tout doit être connecté au backend servi en http://localhost:5000
 
 ### delete user : DELETE /api/user/:id
 
--------
-
 ### get projects : GET /api/projects
 
 ### create project : POST /api/project
@@ -98,7 +92,11 @@ Le tout doit être connecté au backend servi en http://localhost:5000
 
 ### get user projects : GET /api/user/:id/projects
 
+## Références
 
+* https://github.com/github/fetch
+* https://reacttraining.com/react-router/web/guides/quick-start
+* https://github.com/ReactTraining/react-router/tree/v2.0.0
 
 
 
