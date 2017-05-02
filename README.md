@@ -73,7 +73,8 @@ Le tout doit être connecté au backend servi en http://localhost:5000
 ``` 
 {
   'title': String,
-  'description': String 
+  'description': String
+  '_creator': String
 }
 ``` 
 
